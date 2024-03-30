@@ -1,1 +1,1 @@
-# mangalex
+# MangaLex
